@@ -11,3 +11,6 @@ for the scene, the camera and rays loop over 800 x 600 and for every pixel a ray
 if the ray hits a sphere, calculate lughting and see if that point is within a shadow (blocked by another sphere) if recflective, show a secondary reflection ray, and reflect base color.
 
 then stores RGB to the image buffer which then goes to lodepng to write to a .png
+
+![example](https://github.com/ianbasinger/c_raytracer/raw/main/example_1.png)
+![example](https://github.com/ianbasinger/c_raytracer/raw/main/example_2.png)

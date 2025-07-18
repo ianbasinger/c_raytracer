@@ -7,5 +7,6 @@
 #include <time.h>
 
 #include "lodepng.h"
+#include "lodepng.c"
 
 #endif
